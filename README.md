@@ -1,5 +1,5 @@
 # ecoflow-iot-reverse
-Trying to understand how to communicate with Ecoflow Portable Power Stations
+Trying to understand how to communicate with Ecoflow Portable Power Stations in **OFFLINE** mode.
 
 ## Initial considerations
 
